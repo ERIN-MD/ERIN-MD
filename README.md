@@ -17,8 +17,3 @@ _اسمي عبد الرحمن ، المعروف باسم ERIN-MD. تركيز ا�
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERIN-MD&theme=algolia&locale=ar)](https://github.com/ERIN-MD)
 ![](https://github-contributor-stats.vercel.app/api?username=ERIN-MD&limit=5&theme=algolia&combine_all_yearly_contributions=true&locale=ar)
 </a>
-
-
-<p align="center">
- <img width="1000" src="shadow/github-snake.svg" alt="snake"/>
-</p>
